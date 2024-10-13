@@ -32,11 +32,7 @@ namespace EgeNotSistemi
             if (dr.Read())
             {
                 FrmOgrenci frmOgrenci = new FrmOgrenci();
-                frmOgrenci.numara = labelNumara.Text;
-                //frmOgrenci.adsoyad = label;
-                //frmOgrenci.sinav1 = sinav1;
-                //frmOgrenci.sinav2 = sinav2;
-                //frmOgrenci.sinav3 = sinav3;
+                frmOgrenci.numara = textBox1.Text; // Girişteki okul numarasını aktar
                 frmOgrenci.Show();
                 this.Hide(); // Şu anki formu gizle
             }

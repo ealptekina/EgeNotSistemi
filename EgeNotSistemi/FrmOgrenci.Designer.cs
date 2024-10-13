@@ -166,7 +166,7 @@
             // 
             this.labelAdSoyad.AutoSize = true;
             this.labelAdSoyad.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelAdSoyad.Location = new System.Drawing.Point(166, 72);
+            this.labelAdSoyad.Location = new System.Drawing.Point(166, 73);
             this.labelAdSoyad.Name = "labelAdSoyad";
             this.labelAdSoyad.Size = new System.Drawing.Size(12, 16);
             this.labelAdSoyad.TabIndex = 15;
@@ -176,7 +176,7 @@
             // 
             this.labelSinav1.AutoSize = true;
             this.labelSinav1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelSinav1.Location = new System.Drawing.Point(166, 116);
+            this.labelSinav1.Location = new System.Drawing.Point(166, 111);
             this.labelSinav1.Name = "labelSinav1";
             this.labelSinav1.Size = new System.Drawing.Size(12, 16);
             this.labelSinav1.TabIndex = 16;
@@ -186,7 +186,7 @@
             // 
             this.labelSinav2.AutoSize = true;
             this.labelSinav2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelSinav2.Location = new System.Drawing.Point(166, 151);
+            this.labelSinav2.Location = new System.Drawing.Point(166, 144);
             this.labelSinav2.Name = "labelSinav2";
             this.labelSinav2.Size = new System.Drawing.Size(12, 16);
             this.labelSinav2.TabIndex = 17;
@@ -196,7 +196,7 @@
             // 
             this.labelSinav3.AutoSize = true;
             this.labelSinav3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelSinav3.Location = new System.Drawing.Point(166, 189);
+            this.labelSinav3.Location = new System.Drawing.Point(166, 182);
             this.labelSinav3.Name = "labelSinav3";
             this.labelSinav3.Size = new System.Drawing.Size(12, 16);
             this.labelSinav3.TabIndex = 18;
@@ -206,7 +206,7 @@
             // 
             this.labelProje.AutoSize = true;
             this.labelProje.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelProje.Location = new System.Drawing.Point(166, 222);
+            this.labelProje.Location = new System.Drawing.Point(166, 215);
             this.labelProje.Name = "labelProje";
             this.labelProje.Size = new System.Drawing.Size(12, 16);
             this.labelProje.TabIndex = 19;
@@ -216,7 +216,7 @@
             // 
             this.labelOrtalama.AutoSize = true;
             this.labelOrtalama.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelOrtalama.Location = new System.Drawing.Point(166, 257);
+            this.labelOrtalama.Location = new System.Drawing.Point(166, 249);
             this.labelOrtalama.Name = "labelOrtalama";
             this.labelOrtalama.Size = new System.Drawing.Size(12, 16);
             this.labelOrtalama.TabIndex = 20;
@@ -226,7 +226,7 @@
             // 
             this.labelDurum.AutoSize = true;
             this.labelDurum.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelDurum.Location = new System.Drawing.Point(166, 295);
+            this.labelDurum.Location = new System.Drawing.Point(166, 285);
             this.labelDurum.Name = "labelDurum";
             this.labelDurum.Size = new System.Drawing.Size(12, 16);
             this.labelDurum.TabIndex = 21;
